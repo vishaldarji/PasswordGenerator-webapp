@@ -1,0 +1,98 @@
+.container{
+width: 500px;
+height: 400px;
+background-color: rgb(39, 38, 38);
+margin: auto;
+padding-top: 10px;
+color: aliceblue;
+font-size: large;
+
+}
+#psbox{
+    margin: 5px;
+}
+h1{
+    text-align: center;
+    /* font-family: "Poppins", sans-serif; */
+}
+
+.passwordbox{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+#button{
+    color: aliceblue;
+    height: 30px;
+    background-color: rgb(11, 97, 97);
+    cursor: pointer;
+    border-radius: 5px;
+    /* border: 1px solid transparent; */
+}
+.CharacterLength{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.option{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+  .option1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-align: center;
+   
+
+}
+.option input[type="checkbox"]{
+    margin-right: 10px;
+}
+
+.option1 input[type="checkbox"]{
+    margin-right: 10px;
+}
+
+.option label{
+    margin-right: auto;
+}
+.option1 label{
+    margin-right: auto;
+}   
+ 
+
+
+
+.slider{
+    width: 460px;
+    height: 25px;
+    margin: 20px;
+    background-color: rgb(39, 38, 38);;
+    cursor: pointer;
+}
+
+
+.level{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin-top: auto;
+    margin-bottom: auto
+   
+    
+}
+
+.generate{
+    width: 460px;
+    height: 50px;
+    margin: 20px;
+    color: aliceblue;
+    background-color:rgb(11, 97, 97);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 110px;
+    
+}
